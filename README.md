@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://rastuharem.netlify.app">me</a> .
+    <a target="_blank" href="https://rastuharem.netlify.app">me</a> .
     <a href="https://rastuharem.netlify.app/posts">blog</a> .
     <a href="https://www.linkedin.com/in/rasten-remizov">linkedin</a> .
     <a href="https://t.me/rastuharem">telegram</a>
